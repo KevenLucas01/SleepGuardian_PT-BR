@@ -30,9 +30,9 @@
 
 ## 🎥 Demonstração
 
-<div align="center">
-  <video src="https://github.com/KevenLucas01/SleepGuardian_PT-BR/raw/main/assets/SleepGuardian.mp4" width="100%" controls="controls" muted="muted"></video>
-</div>
+
+https://github.com/user-attachments/assets/5733c60a-5431-4761-a6fa-81c8b6382a9f
+
 
 ---
 ## 📋 Sobre
